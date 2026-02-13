@@ -8,6 +8,7 @@ I'm currently a second-year computer science student at Northeastern University.
 - Self-hosting and systems administration with Linux servers
 - Infrastructure-as-code and automation tools: Terraform/OpenTofu, Ansible
 - Containerization tools: Docker, Docker Compose
+- General software development (unsurprisingly)
 - Computer hardware and PC building
 
-This is why I'm drawn towards DevOps - it combines a lot of my interests together :)
+I'm drawn towards DevOps because it combines a lot of my interests together - but I'm open to many roles that match my interests :)
